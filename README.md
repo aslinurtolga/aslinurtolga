@@ -6,11 +6,11 @@
 </p>
 <br>
 <br>
-<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Aslinur</h1>
 <h3 align="center">A passionate Full Stack Developer from Istanbul</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslinurtolga" alt="aslinurtolga" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslinurtolga" alt="aslinurtolga"/> </a> </p>
 
 <p align="left"> <a href="https://twitter.com/@aslinurtolga" target="blank"><img src="https://img.shields.io/twitter/follow/@aslinurtolga?logo=twitter&style=for-the-badge" alt="@aslinurtolga" /></a> </p>
 
