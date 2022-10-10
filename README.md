@@ -5,7 +5,6 @@
   <div align="center">
 <img src="https://github.com/aslinurtolga/aslinurtolga/blob/main/fs.gif" align="center" style="width: 100%" />
 </div>
-
 <br>
 <br>
 
