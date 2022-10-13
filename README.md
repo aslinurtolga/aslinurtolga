@@ -1,7 +1,6 @@
 
 
 ### <div align="center">⚡I'm Aslinur 👩‍💻 Full Stack Developer 🚀</div> 
-📍based in Istanbul 
 
   <div align="center">
 <img src="https://github.com/aslinurtolga/aslinurtolga/blob/main/fs.gif" align="center" style="width: 100%" />
