@@ -1,6 +1,6 @@
 
 
-### <div align="center">⚡I'm Aslinur 👩‍💻 Full Stack Developer 🚀🚀</div> 
+### <div align="center">⚡I'm Aslinur⚡ 👩‍💻 Full Stack Developer 🚀🚀</div> 
 
   <div align="center">
 <img src="https://github.com/aslinurtolga/aslinurtolga/blob/main/fs.gif" align="center" style="width: 100%" />
