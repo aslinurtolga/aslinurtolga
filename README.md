@@ -3,7 +3,7 @@
 ### <div align="center">⚡I'm Aslinur⚡ 👩‍💻 Full Stack Developer 🚀</div> 
 
   <div align="center">
-<img src="https://github.com/aslinurtolga/aslinurtolga/blob/main/fs.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 100%" />
 </div>
 <br>
 <br>
