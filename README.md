@@ -5,16 +5,19 @@
   <div align="center">
 <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 100%" />
 </div>
+<img src="https://media.giphy.com/media/ZwxpIHk5LutMc/giphy.gif" align="right" style="width: 100%" />
 <br>
 <br>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/aslinurtolga)  
-  
+
 
 - 🌱 I’m currently learning Javascript, React and Python, Django  
+
   
 
 <br/>  
+
 
 
 ## My Skill Set  
@@ -104,4 +107,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
