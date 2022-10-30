@@ -84,14 +84,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1wvgsq4cac5ske8x7kc9wpms9&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
