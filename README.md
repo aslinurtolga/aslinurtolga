@@ -10,7 +10,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/aslinurtolga)  
+- 🔭 I’m currently working on [Github Profilinator](https://www.linkedin.com/in/aslinurtolga/)  
 
 
 - 🌱 I’m currently learning Javascript, React and Python, Django  
