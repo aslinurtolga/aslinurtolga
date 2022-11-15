@@ -2,6 +2,8 @@
 
 ### <div align="center"> 🌙 I'm Aslinur 🚀 Full Stack Developer </div> 
 
+![image](./dailyme.png)
+
   <div align="center">
 <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 100%" />
 </div>
