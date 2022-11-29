@@ -1,21 +1,33 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 ### <div align="center"> 🌙 I'm Aslinur 🚀 Full Stack Developer </div> 
 
-![image](./dailyme.png)
-
   <div align="center">
-<img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 80%" />
 </div>
 <br>
 <br>
 
-- 🔭 I’m currently working on [Github Profilinator](https://www.linkedin.com/in/aslinurtolga/)  
+```javascript
+const aslinurtolga= {
+    pronouns: "She" | "Her",
+located_in: Istanbul/Turkiye
+current_job: Frontend Developer
+technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["bootstrap", "sass", "tailwind"]
+        },
+        backEnd: ["Python"],
+        databases: ["Sql"],
+    }
+};
+```
 
 
-- 🌱 I’m currently learning Javascript, React and Python, Django  
 
-  
 
 <br/>  
 
@@ -62,19 +74,14 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/aslinurtolga" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<p align="center">
+<a href="https://www.linkedin.com/in/aslinurtolga/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://twitter.com/aslinurtolga
-" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://twitter.com/aslinurtolga">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://linkedin.com/in/aslinurtolga
-" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</p>  
   
 
 <br/>  
@@ -84,9 +91,9 @@
 
 <div align="center">
   <a href="https://github.com/aslinurtolga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslinurtolga&theme=midnight-purple&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslinurtolga&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslinurtolga&theme=vision-friendly-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslinurtolga&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 
