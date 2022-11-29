@@ -25,9 +25,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -39,7 +37,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
 
@@ -90,6 +87,7 @@
 <div align="center">
   <a href="https://github.com/aslinurtolga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslinurtolga&theme=midnight-purple&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslinurtolga&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
