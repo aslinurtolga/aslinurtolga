@@ -24,7 +24,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%" align="center" >
   
 ### Frontend  
 <div align="center">  
@@ -37,8 +37,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="33%" align="center">
 
 
 ### Backend  
@@ -47,8 +46,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="33%" align="center">
 
 
 ### DevOps  
