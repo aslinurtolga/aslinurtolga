@@ -13,15 +13,15 @@
 ```javascript
 const aslinurtolga= {
     pronouns: "She" | "Her",
-located_in: Istanbul/Turkiye
-current_job: Frontend Developer
+located_in: Istanbul/Turkiye,
+current_job: Frontend Developer,
 technologies: {
         frontEnd: {
             js: ["React"],
             css: ["bootstrap", "sass", "tailwind"]
         },
         backEnd: ["Python"],
-        databases: ["Sql"],
+        databases: ["Sql"]
     }
 };
 ```
