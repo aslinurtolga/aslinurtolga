@@ -20,6 +20,8 @@
 <br/>  
 
 
+              
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -84,7 +86,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center">
+  <a href="https://github.com/aslinurtolga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslinurtolga&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+</div>
+
 
 
 
