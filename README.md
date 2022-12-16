@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-### <div align="center"> 🌙 I'm Aslinur 🚀 Full Stack Developer </div> 
+### <div align="center"> 🌙 I'm Aslinur 🚀 Frontend Developer </div> 
 
   <div align="center">
 <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 80%" />
