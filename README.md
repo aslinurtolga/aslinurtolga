@@ -2,18 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+
 ### <div align="center"> 🌙 I'm Aslinur 🚀 Frontend Developer </div> 
 
   <div align="center">
 <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 80%" />
 </div>
+
 <br>
 <br>
 
 ```javascript
 const aslinurtolga= {
     pronouns: "She" | "Her",
-    located_in: Istanbul/Turkiye,
+    located_in: Istanbul/Turkiye,                                 
     current_job: Frontend Developer,
     technologies: {
           frontEnd: {
@@ -25,15 +27,10 @@ const aslinurtolga= {
       }
 };
 ```
-
-
-
-
-<br/>  
-
-
-              
-
+<div align="center">
+  <img src= "https://i.pinimg.com/564x/81/5a/64/815a6438c918f4b96a39e5725637c495.jpg" align="center" style="width: 26%" />
+  <div/>
+<br/>
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%" align="center" >
