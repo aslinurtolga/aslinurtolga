@@ -20,7 +20,7 @@ const aslinurtolga= {
     technologies: {
           frontEnd: {
               js: ["React"],
-              css: ["bootstrap", "sass", "tailwind"]
+              css: ["bootstrap", "sass", "tailwindcss", "mui", "styled component"]
           },
           backEnd: ["Python"],
           databases: ["Sql"]
