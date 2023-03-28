@@ -3,7 +3,13 @@
 </p>
 
 
-### <div align="center"> 🌙 I'm Aslinur 🚀 Frontend Developer </div> 
+
+ <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=21&pause=1000&color=F7AE22&center=true&vCenter=true&width=435&lines=%F0%9F%8C%99+I'm+Aslinur+%F0%9F%9A%80+Frontend+Developer)](https://git.io/typing-svg)
+  
+</div>
+
 
   <div align="center">
 <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 80%" />
