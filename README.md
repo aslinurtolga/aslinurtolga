@@ -32,7 +32,7 @@ const aslinurtolga= {
 };
 ```
 <div align="center">
-  <img src= "https://i.pinimg.com/564x/81/5a/64/815a6438c918f4b96a39e5725637c495.jpg"  align="center" style="width: 26%" />
+  <img src= "https://i.pinimg.com/564x/81/5a/64/815a6438c918f4b96a39e5725637c495.jpg"  align="center" style="width: 28%" />
   <div/>
 <br/>
 
