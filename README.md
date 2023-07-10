@@ -27,7 +27,7 @@ const aslinurtolga= {
               css: ["bootstrap", "sass", "tailwindcss", "mui", "styled component"]
           },
           backEnd: ["Python"],
-          databases: ["Sql"]
+          databases: ["Sql", "MongoDB"]
       }
 };
 ```
