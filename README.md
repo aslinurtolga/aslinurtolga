@@ -17,20 +17,21 @@
 <br>
 
 ```javascript
-const aslinurtolga= {
-    pronouns: "She" | "Her",
-    located_in: Istanbul/Turkiye,                                 
-    current_job: Frontend Developer,
-    technologies: {
-          frontEnd: {
-              js: ["React"],
-              ts: ["Angular"],
-              css: ["bootstrap", "sass", "tailwindcss", "mui","mantineui", "styled component"]
-          },
-          backEnd: ["Python"],
-          databases: ["Sql", "MongoDB"]
-      }
+const aslinurtolga = {
+  pronouns: 'She' as const | 'Her' as const,
+  located_in: 'Istanbul/Turkiye',
+  current_job: 'Frontend Developer',
+  technologies: {
+    frontEnd: {
+      js: ['React'],
+      ts: ['Angular'],
+      css: ['bootstrap', 'sass', 'tailwindcss', 'mui', 'mantineui', 'styled-component']
+    },
+    backEnd: ['Python'],
+    databases: ['Sql', 'MongoDB']
+  }
 };
+
 ```
 <div align="center">
   <img src= "https://i.pinimg.com/564x/81/5a/64/815a6438c918f4b96a39e5725637c495.jpg"  align="center" style="width: 28%" />
