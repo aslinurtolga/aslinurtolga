@@ -24,6 +24,7 @@ const aslinurtolga= {
     technologies: {
           frontEnd: {
               js: ["React"],
+              ts: ["Angular"],
               css: ["bootstrap", "sass", "tailwindcss", "mui","mantineui", "styled component"]
           },
           backEnd: ["Python"],
